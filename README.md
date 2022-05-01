@@ -1,2 +1,2 @@
-# canvas-coin
- Public sunucularda olan ilk yazan kazanır sistemi
+# Cavnaslı ilk yazan kazanır sistemi
+25 Star olduğunda botu paylaşıcam ve 40 star gelirse tek cmd public botumu paylaşacağım
